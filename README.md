@@ -14,8 +14,8 @@ DermAI is your digital assistant for skin cancer detection, providing image-base
 - Accurate, easy-to-understand results.
 
 <!-- Example Images -->
-![Sample Result 258](path/to/258.jpg)
-![Sample Result 313](path/to/313.jpg)
+![Sample Result 258](/258.jpg)
+![Sample Result 313](/313.jpg)
 
 ---
 
