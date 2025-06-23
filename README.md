@@ -54,4 +54,16 @@ Check out our working website : [Derm-AI](https://derm-ai-medithon.streamlit.app
 
 # DermAI
 
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/derm-ai-assistant.git
+cd derm-ai-assistant
+pip install -r requirements.txt
+weights.h5
+gmaps = googlemaps.Client(key="YOUR_GOOGLE_MAPS_API_KEY")
+genai.configure(api_key="YOUR_GEMINI_API_KEY")
+streamlit run app.py
 
