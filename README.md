@@ -56,8 +56,6 @@ Check out our working website : [Derm-AI](https://derm-ai-medithon.streamlit.app
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-
 ```bash
 git clone https://github.com/your-username/derm-ai-assistant.git
 cd derm-ai-assistant
