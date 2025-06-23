@@ -54,7 +54,7 @@ st.markdown("""
 
 # Set up OpenAI API key
 
-gmaps = googlemaps.Client(key="AIzaSyBZ54CrwbNjBiKKs-4NydriYQTp0yEGFlM")
+gmaps = googlemaps.Client(key="YOUR API KEY")
 # Load the model
 model = load_model('weights.h5')
 
