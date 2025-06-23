@@ -58,7 +58,7 @@ gmaps = googlemaps.Client(key="YOUR API KEY")
 # Load the model
 model = load_model('weights.h5')
 
-genai.configure(api_key="AIzaSyA8CHnU_1P-UMjwR9bK9Fn77zmymPNXC5Y")
+genai.configure(api_key="YOUR GEMINI API KEY")
 
 def preprocess_image(image):
     img = image.resize((128, 128))  # Resize the image
